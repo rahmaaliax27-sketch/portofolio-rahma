@@ -886,7 +886,7 @@ projectModal10: {
             category: "Sertifikat",
             role: "MICROSOFT EXCEL",
             description:
-                "Sertifikat Penghargaan atas penyelesaian program Microsoft Word Excel yang diselenggarakan oleh Remote Skills Academy.",
+                "Sertifikat Penghargaan atas penyelesaian program Microsoft Excel yang diselenggarakan oleh Remote Skills Academy.",
             highlights: [
                 "Nama program: Dasaar Microsoft Excel",
                 "Penyelenggara: Remote Skills Academy",
