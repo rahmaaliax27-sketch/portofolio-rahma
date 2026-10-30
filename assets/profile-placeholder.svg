@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171421"/><stop offset="1" stop-color="#403452"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#g)"/><circle cx="400" cy="330" r="145" fill="#b69ae8" opacity=".22"/>
+<path d="M170 900c35-220 125-330 230-330s195 110 230 330" fill="#b69ae8" opacity=".18"/>
+<text x="400" y="950" fill="#eee" font-size="30" text-anchor="middle" font-family="Georgia">YOUR PHOTO</text></svg>
